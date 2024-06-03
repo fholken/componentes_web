@@ -25,3 +25,5 @@ Los Componentes Web son un conjunto de tecnologías diseñadas para crear elemen
 
 ### Conclusión
 Los Componentes Web son una poderosa herramienta para desarrollar interfaces web modernas y eficientes, permitiendo crear elementos personalizados que son fáciles de mantener y reutilizar, con la funcionalidad y estilo encapsulados para evitar conflictos con el resto del código de la página.
+
+Esto es un prueba
